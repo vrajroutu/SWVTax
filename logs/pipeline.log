@@ -1,0 +1,593 @@
+2025-05-12 22:06:46.743 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2015.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:06:46.744 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2015.csv
+2025-05-12 22:06:46.745 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2015.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:06:46.803 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2016.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:06:46.804 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2016.csv
+2025-05-12 22:06:46.804 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2016.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:06:46.862 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2017.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:06:46.862 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2017.csv
+2025-05-12 22:06:46.862 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2017.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:06:46.918 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2018.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:06:46.919 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2018.csv
+2025-05-12 22:06:46.919 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2018.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:06:46.978 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2019.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:06:46.978 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2019.csv
+2025-05-12 22:06:46.978 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2019.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:06:47.040 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2020.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:06:47.040 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2020.csv
+2025-05-12 22:06:47.040 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2020.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:06:47.100 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2021.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:06:47.100 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2021.csv
+2025-05-12 22:06:47.101 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2021.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:06:47.163 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2022.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:06:47.163 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2022.csv
+2025-05-12 22:06:47.163 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2022.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:06:47.225 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2023.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:06:47.225 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2023.csv
+2025-05-12 22:06:47.225 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2023.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:06:47.288 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2024.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:06:47.288 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2024.csv
+2025-05-12 22:06:47.288 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2024.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:06:47.338 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2025.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:06:47.339 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2025.csv
+2025-05-12 22:06:47.339 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2025.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:12:53.669 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2015.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:12:53.670 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2015.csv
+2025-05-12 22:12:53.670 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2015.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:12:53.737 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2016.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:12:53.737 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2016.csv
+2025-05-12 22:12:53.737 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2016.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:12:53.793 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2017.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:12:53.794 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2017.csv
+2025-05-12 22:12:53.794 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2017.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:12:53.854 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2018.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:12:53.854 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2018.csv
+2025-05-12 22:12:53.854 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2018.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:12:53.911 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2019.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:12:53.911 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2019.csv
+2025-05-12 22:12:53.911 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2019.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:12:53.969 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2020.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:12:53.969 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2020.csv
+2025-05-12 22:12:53.969 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2020.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:12:54.030 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2021.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:12:54.030 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2021.csv
+2025-05-12 22:12:54.030 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2021.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:12:54.089 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2022.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:12:54.089 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2022.csv
+2025-05-12 22:12:54.089 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2022.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:12:54.148 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2023.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:12:54.149 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2023.csv
+2025-05-12 22:12:54.149 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2023.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:12:54.216 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2024.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:12:54.217 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2024.csv
+2025-05-12 22:12:54.217 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2024.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:12:54.278 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2025.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:12:54.278 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2025.csv
+2025-05-12 22:12:54.279 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2025.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:14:28.948 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2015.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:14:28.949 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2015.csv
+2025-05-12 22:14:28.949 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2015.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:14:29.010 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2016.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:14:29.011 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2016.csv
+2025-05-12 22:14:29.011 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2016.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:14:29.075 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2017.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:14:29.075 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2017.csv
+2025-05-12 22:14:29.076 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2017.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:14:29.144 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2018.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:14:29.144 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2018.csv
+2025-05-12 22:14:29.144 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2018.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:14:29.229 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2019.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:14:29.230 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2019.csv
+2025-05-12 22:14:29.230 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2019.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:14:29.300 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2020.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:14:29.300 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2020.csv
+2025-05-12 22:14:29.300 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2020.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:14:29.363 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2021.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:14:29.364 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2021.csv
+2025-05-12 22:14:29.364 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2021.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:14:29.425 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2022.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:14:29.426 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2022.csv
+2025-05-12 22:14:29.426 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2022.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:14:29.487 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2023.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:14:29.487 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2023.csv
+2025-05-12 22:14:29.487 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2023.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:14:29.550 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2024.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:14:29.550 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2024.csv
+2025-05-12 22:14:29.550 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2024.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:14:29.612 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2025.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:14:29.612 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2025.csv
+2025-05-12 22:14:29.612 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2025.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:14:30.676 | INFO     | reporting.reporter:line_chart:21 - Saved chart: reporting/output/line_chart.png
+2025-05-12 22:14:30.677 | INFO     | reporting.reporter:summary_table:26 - Saved summary table: reporting/output/summary.csv
+2025-05-12 22:14:31.153 | INFO     | reporting.reporter:to_excel:31 - Saved Excel file: reporting/output/summary.xlsx
+2025-05-12 22:14:32.036 | ERROR    | reporting.reporter:to_pdf:47 - Failed to save PDF: index 0 is out of bounds for axis 0 with size 0
+2025-05-12 22:14:32.098 | INFO     | reporting.reporter:compare_new_vs_old_chart:59 - Saved new vs. old home comparison chart: reporting/output/tax_comparison_new_vs_old.png
+2025-05-12 22:14:32.099 | INFO     | reporting.reporter:compare_new_vs_old_table:64 - Saved new vs. old home comparison table: reporting/output/tax_comparison_new_vs_old.csv
+2025-05-12 22:14:32.456 | INFO     | reporting.reporter:generate_case_report:94 - Saved detailed case report: reporting/output/case_report.pdf
+2025-05-12 22:15:24.417 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2015.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:15:24.418 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2015.csv
+2025-05-12 22:15:24.418 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2015.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:15:24.474 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2016.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:15:24.475 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2016.csv
+2025-05-12 22:15:24.475 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2016.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:15:24.529 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2017.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:15:24.529 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2017.csv
+2025-05-12 22:15:24.529 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2017.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:15:24.588 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2018.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:15:24.589 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2018.csv
+2025-05-12 22:15:24.589 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2018.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:15:24.639 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2019.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:15:24.640 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2019.csv
+2025-05-12 22:15:24.640 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2019.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:15:25.052 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2020.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:15:25.053 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2020.csv
+2025-05-12 22:15:25.053 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2020.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:15:25.111 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2021.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:15:25.111 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2021.csv
+2025-05-12 22:15:25.111 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2021.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:15:25.167 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2022.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:15:25.167 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2022.csv
+2025-05-12 22:15:25.167 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2022.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:15:25.221 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2023.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:15:25.221 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2023.csv
+2025-05-12 22:15:25.221 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2023.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:15:25.279 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2024.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:15:25.279 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2024.csv
+2025-05-12 22:15:25.279 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2024.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:15:25.338 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2025.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:15:25.338 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2025.csv
+2025-05-12 22:15:25.338 | ERROR    | data_collection.collector:parse_csv:107 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2025.csv: 'NoneType' object has no attribute 'rename'
+2025-05-12 22:15:25.502 | INFO     | reporting.reporter:line_chart:21 - Saved chart: reporting/output/line_chart.png
+2025-05-12 22:15:25.502 | INFO     | reporting.reporter:summary_table:26 - Saved summary table: reporting/output/summary.csv
+2025-05-12 22:15:25.598 | INFO     | reporting.reporter:to_excel:31 - Saved Excel file: reporting/output/summary.xlsx
+2025-05-12 22:15:25.672 | ERROR    | reporting.reporter:to_pdf:47 - Failed to save PDF: index 0 is out of bounds for axis 0 with size 0
+2025-05-12 22:15:25.715 | INFO     | reporting.reporter:compare_new_vs_old_chart:59 - Saved new vs. old home comparison chart: reporting/output/tax_comparison_new_vs_old.png
+2025-05-12 22:15:25.716 | INFO     | reporting.reporter:compare_new_vs_old_table:64 - Saved new vs. old home comparison table: reporting/output/tax_comparison_new_vs_old.csv
+2025-05-12 22:15:26.045 | INFO     | reporting.reporter:generate_case_report:94 - Saved detailed case report: reporting/output/case_report.pdf
+2025-05-12 22:15:33.552 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2015.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:15:33.552 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2015.csv
+2025-05-12 22:15:33.553 | ERROR    | data_collection.collector:parse_csv:87 - No data returned when fetching CSV: https://www.roxburynj.us/property-records/records_2015.csv
+2025-05-12 22:15:33.621 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2016.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:15:33.621 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2016.csv
+2025-05-12 22:15:33.621 | ERROR    | data_collection.collector:parse_csv:87 - No data returned when fetching CSV: https://www.roxburynj.us/property-records/records_2016.csv
+2025-05-12 22:15:33.994 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2017.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:15:33.995 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2017.csv
+2025-05-12 22:15:33.995 | ERROR    | data_collection.collector:parse_csv:87 - No data returned when fetching CSV: https://www.roxburynj.us/property-records/records_2017.csv
+2025-05-12 22:15:34.056 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2018.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:15:34.057 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2018.csv
+2025-05-12 22:15:34.057 | ERROR    | data_collection.collector:parse_csv:87 - No data returned when fetching CSV: https://www.roxburynj.us/property-records/records_2018.csv
+2025-05-12 22:15:34.120 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2019.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:15:34.120 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2019.csv
+2025-05-12 22:15:34.120 | ERROR    | data_collection.collector:parse_csv:87 - No data returned when fetching CSV: https://www.roxburynj.us/property-records/records_2019.csv
+2025-05-12 22:15:34.181 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2020.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:15:34.182 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2020.csv
+2025-05-12 22:15:34.182 | ERROR    | data_collection.collector:parse_csv:87 - No data returned when fetching CSV: https://www.roxburynj.us/property-records/records_2020.csv
+2025-05-12 22:15:34.250 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2021.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:15:34.251 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2021.csv
+2025-05-12 22:15:34.251 | ERROR    | data_collection.collector:parse_csv:87 - No data returned when fetching CSV: https://www.roxburynj.us/property-records/records_2021.csv
+2025-05-12 22:15:34.308 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2022.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:15:34.308 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2022.csv
+2025-05-12 22:15:34.308 | ERROR    | data_collection.collector:parse_csv:87 - No data returned when fetching CSV: https://www.roxburynj.us/property-records/records_2022.csv
+2025-05-12 22:15:34.370 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2023.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:15:34.370 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2023.csv
+2025-05-12 22:15:34.370 | ERROR    | data_collection.collector:parse_csv:87 - No data returned when fetching CSV: https://www.roxburynj.us/property-records/records_2023.csv
+2025-05-12 22:15:34.432 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2024.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:15:34.433 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2024.csv
+2025-05-12 22:15:34.433 | ERROR    | data_collection.collector:parse_csv:87 - No data returned when fetching CSV: https://www.roxburynj.us/property-records/records_2024.csv
+2025-05-12 22:15:34.501 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2025.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:15:34.501 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2025.csv
+2025-05-12 22:15:34.502 | ERROR    | data_collection.collector:parse_csv:87 - No data returned when fetching CSV: https://www.roxburynj.us/property-records/records_2025.csv
+2025-05-12 22:15:34.706 | INFO     | reporting.reporter:line_chart:21 - Saved chart: reporting/output/line_chart.png
+2025-05-12 22:15:34.708 | INFO     | reporting.reporter:summary_table:26 - Saved summary table: reporting/output/summary.csv
+2025-05-12 22:15:34.818 | INFO     | reporting.reporter:to_excel:31 - Saved Excel file: reporting/output/summary.xlsx
+2025-05-12 22:15:34.892 | ERROR    | reporting.reporter:to_pdf:47 - Failed to save PDF: index 0 is out of bounds for axis 0 with size 0
+2025-05-12 22:15:34.932 | INFO     | reporting.reporter:compare_new_vs_old_chart:59 - Saved new vs. old home comparison chart: reporting/output/tax_comparison_new_vs_old.png
+2025-05-12 22:15:34.934 | INFO     | reporting.reporter:compare_new_vs_old_table:64 - Saved new vs. old home comparison table: reporting/output/tax_comparison_new_vs_old.csv
+2025-05-12 22:15:35.273 | INFO     | reporting.reporter:generate_case_report:94 - Saved detailed case report: reporting/output/case_report.pdf
+2025-05-12 22:16:33.178 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2015.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:16:33.178 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2015.csv
+2025-05-12 22:16:33.179 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2015.csv
+2025-05-12 22:16:33.243 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2016.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:16:33.243 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2016.csv
+2025-05-12 22:16:33.243 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2016.csv
+2025-05-12 22:16:33.296 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2017.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:16:33.296 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2017.csv
+2025-05-12 22:16:33.297 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2017.csv
+2025-05-12 22:16:33.356 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2018.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:16:33.356 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2018.csv
+2025-05-12 22:16:33.356 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2018.csv
+2025-05-12 22:16:33.420 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2019.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:16:33.420 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2019.csv
+2025-05-12 22:16:33.420 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2019.csv
+2025-05-12 22:16:33.477 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2020.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:16:33.477 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2020.csv
+2025-05-12 22:16:33.477 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2020.csv
+2025-05-12 22:16:33.534 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2021.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:16:33.534 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2021.csv
+2025-05-12 22:16:33.534 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2021.csv
+2025-05-12 22:16:33.595 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2022.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:16:33.595 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2022.csv
+2025-05-12 22:16:33.595 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2022.csv
+2025-05-12 22:16:33.658 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2023.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:16:33.658 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2023.csv
+2025-05-12 22:16:33.659 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2023.csv
+2025-05-12 22:16:33.976 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2024.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:16:33.976 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2024.csv
+2025-05-12 22:16:33.976 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2024.csv
+2025-05-12 22:16:34.034 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2025.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:16:34.034 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2025.csv
+2025-05-12 22:16:34.034 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2025.csv
+2025-05-12 22:16:34.210 | INFO     | reporting.reporter:line_chart:21 - Saved chart: reporting/output/line_chart.png
+2025-05-12 22:16:34.212 | INFO     | reporting.reporter:summary_table:26 - Saved summary table: reporting/output/summary.csv
+2025-05-12 22:16:34.312 | INFO     | reporting.reporter:to_excel:31 - Saved Excel file: reporting/output/summary.xlsx
+2025-05-12 22:16:34.392 | ERROR    | reporting.reporter:to_pdf:47 - Failed to save PDF: index 0 is out of bounds for axis 0 with size 0
+2025-05-12 22:16:34.434 | INFO     | reporting.reporter:compare_new_vs_old_chart:59 - Saved new vs. old home comparison chart: reporting/output/tax_comparison_new_vs_old.png
+2025-05-12 22:16:34.436 | INFO     | reporting.reporter:compare_new_vs_old_table:64 - Saved new vs. old home comparison table: reporting/output/tax_comparison_new_vs_old.csv
+2025-05-12 22:16:34.778 | INFO     | reporting.reporter:generate_case_report:94 - Saved detailed case report: reporting/output/case_report.pdf
+2025-05-12 22:19:16.979 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2015.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:19:16.980 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2015.csv
+2025-05-12 22:19:16.981 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2015.csv
+2025-05-12 22:19:17.043 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2016.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:19:17.043 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2016.csv
+2025-05-12 22:19:17.043 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2016.csv
+2025-05-12 22:19:17.101 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2017.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:19:17.102 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2017.csv
+2025-05-12 22:19:17.102 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2017.csv
+2025-05-12 22:19:17.164 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2018.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:19:17.165 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2018.csv
+2025-05-12 22:19:17.165 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2018.csv
+2025-05-12 22:19:17.226 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2019.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:19:17.226 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2019.csv
+2025-05-12 22:19:17.226 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2019.csv
+2025-05-12 22:19:17.283 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2020.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:19:17.283 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2020.csv
+2025-05-12 22:19:17.283 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2020.csv
+2025-05-12 22:19:17.350 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2021.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:19:17.350 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2021.csv
+2025-05-12 22:19:17.350 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2021.csv
+2025-05-12 22:19:17.409 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2022.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:19:17.409 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2022.csv
+2025-05-12 22:19:17.409 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2022.csv
+2025-05-12 22:19:17.469 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2023.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:19:17.470 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2023.csv
+2025-05-12 22:19:17.470 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2023.csv
+2025-05-12 22:19:17.533 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2024.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:19:17.533 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2024.csv
+2025-05-12 22:19:17.534 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2024.csv
+2025-05-12 22:19:17.599 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2025.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:19:17.599 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2025.csv
+2025-05-12 22:19:17.600 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2025.csv
+2025-05-12 22:19:17.636 | WARNING  | reporting.reporter:line_chart:15 - Cannot create line chart: DataFrame is empty or None
+2025-05-12 22:19:17.636 | WARNING  | reporting.reporter:summary_table:28 - Cannot save summary table: DataFrame is empty or None
+2025-05-12 22:19:17.636 | WARNING  | reporting.reporter:to_excel:36 - Cannot save Excel file: DataFrame is empty or None
+2025-05-12 22:19:17.636 | WARNING  | reporting.reporter:to_pdf:46 - Cannot save PDF: DataFrame is empty or None
+2025-05-12 22:19:17.799 | INFO     | reporting.reporter:compare_new_vs_old_chart:73 - Saved new vs. old home comparison chart: reporting/output/tax_comparison_new_vs_old.png
+2025-05-12 22:19:17.799 | INFO     | reporting.reporter:compare_new_vs_old_table:78 - Saved new vs. old home comparison table: reporting/output/tax_comparison_new_vs_old.csv
+2025-05-12 22:19:18.206 | INFO     | reporting.reporter:generate_case_report:108 - Saved detailed case report: reporting/output/case_report.pdf
+2025-05-12 22:21:54.409 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2015.csv: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)>
+2025-05-12 22:21:54.410 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2015.csv
+2025-05-12 22:21:54.410 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2015.csv
+2025-05-12 22:21:54.581 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2016.csv: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)>
+2025-05-12 22:21:54.581 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2016.csv
+2025-05-12 22:21:54.582 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2016.csv
+2025-05-12 22:21:54.744 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2017.csv: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)>
+2025-05-12 22:21:54.744 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2017.csv
+2025-05-12 22:21:54.745 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2017.csv
+2025-05-12 22:21:54.910 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2018.csv: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)>
+2025-05-12 22:21:54.911 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2018.csv
+2025-05-12 22:21:54.911 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2018.csv
+2025-05-12 22:21:55.068 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2019.csv: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)>
+2025-05-12 22:21:55.069 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2019.csv
+2025-05-12 22:21:55.069 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2019.csv
+2025-05-12 22:21:55.229 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2020.csv: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)>
+2025-05-12 22:21:55.230 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2020.csv
+2025-05-12 22:21:55.230 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2020.csv
+2025-05-12 22:21:55.384 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2021.csv: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)>
+2025-05-12 22:21:55.384 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2021.csv
+2025-05-12 22:21:55.385 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2021.csv
+2025-05-12 22:21:55.543 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2022.csv: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)>
+2025-05-12 22:21:55.543 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2022.csv
+2025-05-12 22:21:55.544 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2022.csv
+2025-05-12 22:21:55.704 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2023.csv: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)>
+2025-05-12 22:21:55.704 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2023.csv
+2025-05-12 22:21:55.704 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2023.csv
+2025-05-12 22:21:55.860 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2024.csv: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)>
+2025-05-12 22:21:55.860 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2024.csv
+2025-05-12 22:21:55.860 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2024.csv
+2025-05-12 22:21:56.023 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2025.csv: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)>
+2025-05-12 22:21:56.023 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2025.csv
+2025-05-12 22:21:56.023 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2025.csv
+2025-05-12 22:21:56.070 | WARNING  | reporting.reporter:line_chart:15 - Cannot create line chart: DataFrame is empty or None
+2025-05-12 22:21:56.070 | WARNING  | reporting.reporter:summary_table:28 - Cannot save summary table: DataFrame is empty or None
+2025-05-12 22:21:56.070 | WARNING  | reporting.reporter:to_excel:36 - Cannot save Excel file: DataFrame is empty or None
+2025-05-12 22:21:56.070 | WARNING  | reporting.reporter:to_pdf:46 - Cannot save PDF: DataFrame is empty or None
+2025-05-12 22:21:56.246 | INFO     | reporting.reporter:compare_new_vs_old_chart:73 - Saved new vs. old home comparison chart: reporting/output/tax_comparison_new_vs_old.png
+2025-05-12 22:21:56.247 | INFO     | reporting.reporter:compare_new_vs_old_table:78 - Saved new vs. old home comparison table: reporting/output/tax_comparison_new_vs_old.csv
+2025-05-12 22:21:56.676 | INFO     | reporting.reporter:generate_case_report:108 - Saved detailed case report: reporting/output/case_report.pdf
+2025-05-12 22:23:32.940 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2015.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:23:32.940 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2015.csv
+2025-05-12 22:23:32.941 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2015.csv
+2025-05-12 22:23:33.014 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2016.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:23:33.014 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2016.csv
+2025-05-12 22:23:33.015 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2016.csv
+2025-05-12 22:23:33.074 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2017.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:23:33.074 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2017.csv
+2025-05-12 22:23:33.074 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2017.csv
+2025-05-12 22:23:33.139 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2018.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:23:33.140 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2018.csv
+2025-05-12 22:23:33.140 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2018.csv
+2025-05-12 22:23:33.215 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2019.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:23:33.215 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2019.csv
+2025-05-12 22:23:33.215 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2019.csv
+2025-05-12 22:23:33.295 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2020.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:23:33.296 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2020.csv
+2025-05-12 22:23:33.296 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2020.csv
+2025-05-12 22:23:33.385 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2021.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:23:33.385 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2021.csv
+2025-05-12 22:23:33.385 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2021.csv
+2025-05-12 22:23:33.458 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2022.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:23:33.458 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2022.csv
+2025-05-12 22:23:33.458 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2022.csv
+2025-05-12 22:23:33.525 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2023.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:23:33.525 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2023.csv
+2025-05-12 22:23:33.525 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2023.csv
+2025-05-12 22:23:33.589 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2024.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:23:33.589 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2024.csv
+2025-05-12 22:23:33.589 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2024.csv
+2025-05-12 22:23:33.653 | WARNING  | data_collection.collector:check_robots:27 - Could not read robots.txt for https://www.roxburynj.us/property-records/records_2025.csv: <urlopen error Tunnel connection failed: 407 Proxy Authentication Required>
+2025-05-12 22:23:33.653 | WARNING  | data_collection.collector:fetch_url:33 - Scraping disallowed by robots.txt: https://www.roxburynj.us/property-records/records_2025.csv
+2025-05-12 22:23:33.653 | WARNING  | data_collection.collector:parse_csv:87 - No data found in CSV: https://www.roxburynj.us/property-records/records_2025.csv
+2025-05-12 22:23:33.697 | WARNING  | reporting.reporter:line_chart:15 - Cannot create line chart: DataFrame is empty or None
+2025-05-12 22:23:33.697 | WARNING  | reporting.reporter:summary_table:28 - Cannot save summary table: DataFrame is empty or None
+2025-05-12 22:23:33.697 | WARNING  | reporting.reporter:to_excel:36 - Cannot save Excel file: DataFrame is empty or None
+2025-05-12 22:23:33.697 | WARNING  | reporting.reporter:to_pdf:46 - Cannot save PDF: DataFrame is empty or None
+2025-05-12 22:23:33.865 | INFO     | reporting.reporter:compare_new_vs_old_chart:73 - Saved new vs. old home comparison chart: reporting/output/tax_comparison_new_vs_old.png
+2025-05-12 22:23:33.867 | INFO     | reporting.reporter:compare_new_vs_old_table:78 - Saved new vs. old home comparison table: reporting/output/tax_comparison_new_vs_old.csv
+2025-05-12 22:23:34.315 | INFO     | reporting.reporter:generate_case_report:108 - Saved detailed case report: reporting/output/case_report.pdf
+2025-05-12 22:24:48.749 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2015.csv to avoid SSL issues
+2025-05-12 22:24:49.412 | ERROR    | data_collection.collector:fetch_url:45 - Failed to fetch https://www.roxburynj.us/property-records/records_2015.csv: 404 Client Error: Not Found for url: https://www.roxburynj.us/property-records/records_2015.csv
+2025-05-12 22:24:51.418 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2015.csv to avoid SSL issues
+2025-05-12 22:24:51.538 | ERROR    | data_collection.collector:fetch_url:45 - Failed to fetch https://www.roxburynj.us/property-records/records_2015.csv: 404 Client Error: Not Found for url: https://www.roxburynj.us/property-records/records_2015.csv
+2025-05-12 22:24:53.540 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2015.csv to avoid SSL issues
+2025-05-12 22:24:53.660 | ERROR    | data_collection.collector:fetch_url:45 - Failed to fetch https://www.roxburynj.us/property-records/records_2015.csv: 404 Client Error: Not Found for url: https://www.roxburynj.us/property-records/records_2015.csv
+2025-05-12 22:24:53.661 | ERROR    | data_collection.collector:parse_csv:117 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2015.csv: RetryError[<Future at 0x112416e90 state=finished raised HTTPError>]
+2025-05-12 22:27:30.779 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2015.csv to avoid SSL issues
+2025-05-12 22:27:31.121 | ERROR    | data_collection.collector:fetch_url:45 - Failed to fetch https://www.roxburynj.us/property-records/records_2015.csv: HTTPSConnectionPool(host='www.roxburynj.us', port=443): Max retries exceeded with url: /property-records/records_2015.csv (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 407 Proxy Authentication Required')))
+2025-05-12 22:27:33.122 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2015.csv to avoid SSL issues
+2025-05-12 22:27:33.675 | ERROR    | data_collection.collector:fetch_url:45 - Failed to fetch https://www.roxburynj.us/property-records/records_2015.csv: HTTPSConnectionPool(host='www.roxburynj.us', port=443): Max retries exceeded with url: /property-records/records_2015.csv (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 407 Proxy Authentication Required')))
+2025-05-12 22:27:35.677 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2015.csv to avoid SSL issues
+2025-05-12 22:27:36.016 | ERROR    | data_collection.collector:fetch_url:45 - Failed to fetch https://www.roxburynj.us/property-records/records_2015.csv: HTTPSConnectionPool(host='www.roxburynj.us', port=443): Max retries exceeded with url: /property-records/records_2015.csv (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 407 Proxy Authentication Required')))
+2025-05-12 22:27:36.017 | ERROR    | data_collection.collector:parse_csv:117 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2015.csv: RetryError[<Future at 0x10a9e8410 state=finished raised ProxyError>]
+2025-05-12 22:27:36.023 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2016.csv to avoid SSL issues
+2025-05-12 22:27:36.087 | ERROR    | data_collection.collector:fetch_url:45 - Failed to fetch https://www.roxburynj.us/property-records/records_2016.csv: HTTPSConnectionPool(host='www.roxburynj.us', port=443): Max retries exceeded with url: /property-records/records_2016.csv (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 407 Proxy Authentication Required')))
+2025-05-12 22:27:38.088 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2016.csv to avoid SSL issues
+2025-05-12 22:27:38.410 | ERROR    | data_collection.collector:fetch_url:45 - Failed to fetch https://www.roxburynj.us/property-records/records_2016.csv: HTTPSConnectionPool(host='www.roxburynj.us', port=443): Max retries exceeded with url: /property-records/records_2016.csv (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 407 Proxy Authentication Required')))
+2025-05-12 22:27:48.026 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2015.csv to avoid SSL issues
+2025-05-12 22:27:49.237 | ERROR    | data_collection.collector:fetch_url:45 - Failed to fetch https://www.roxburynj.us/property-records/records_2015.csv: 404 Client Error: Not Found for url: https://www.roxburynj.us/property-records/records_2015.csv
+2025-05-12 22:27:51.240 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2015.csv to avoid SSL issues
+2025-05-12 22:27:51.353 | ERROR    | data_collection.collector:fetch_url:45 - Failed to fetch https://www.roxburynj.us/property-records/records_2015.csv: 404 Client Error: Not Found for url: https://www.roxburynj.us/property-records/records_2015.csv
+2025-05-12 22:27:53.359 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2015.csv to avoid SSL issues
+2025-05-12 22:27:53.473 | ERROR    | data_collection.collector:fetch_url:45 - Failed to fetch https://www.roxburynj.us/property-records/records_2015.csv: 404 Client Error: Not Found for url: https://www.roxburynj.us/property-records/records_2015.csv
+2025-05-12 22:27:53.474 | ERROR    | data_collection.collector:parse_csv:117 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2015.csv: RetryError[<Future at 0x111016e90 state=finished raised HTTPError>]
+2025-05-12 22:27:53.477 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2016.csv to avoid SSL issues
+2025-05-12 22:27:53.704 | ERROR    | data_collection.collector:fetch_url:45 - Failed to fetch https://www.roxburynj.us/property-records/records_2016.csv: 404 Client Error: Not Found for url: https://www.roxburynj.us/property-records/records_2016.csv
+2025-05-12 22:27:55.705 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2016.csv to avoid SSL issues
+2025-05-12 22:27:55.822 | ERROR    | data_collection.collector:fetch_url:45 - Failed to fetch https://www.roxburynj.us/property-records/records_2016.csv: 404 Client Error: Not Found for url: https://www.roxburynj.us/property-records/records_2016.csv
+2025-05-12 22:27:57.825 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2016.csv to avoid SSL issues
+2025-05-12 22:27:57.940 | ERROR    | data_collection.collector:fetch_url:45 - Failed to fetch https://www.roxburynj.us/property-records/records_2016.csv: 404 Client Error: Not Found for url: https://www.roxburynj.us/property-records/records_2016.csv
+2025-05-12 22:27:57.940 | ERROR    | data_collection.collector:parse_csv:117 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2016.csv: RetryError[<Future at 0x1110396d0 state=finished raised HTTPError>]
+2025-05-12 22:27:57.943 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2017.csv to avoid SSL issues
+2025-05-12 22:27:58.143 | ERROR    | data_collection.collector:fetch_url:45 - Failed to fetch https://www.roxburynj.us/property-records/records_2017.csv: 404 Client Error: Not Found for url: https://www.roxburynj.us/property-records/records_2017.csv
+2025-05-12 22:29:07.722 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2015.csv to avoid SSL issues
+2025-05-12 22:29:08.226 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2015.csv
+2025-05-12 22:29:10.232 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2015.csv to avoid SSL issues
+2025-05-12 22:29:10.355 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2015.csv
+2025-05-12 22:29:12.360 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2015.csv to avoid SSL issues
+2025-05-12 22:29:12.473 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2015.csv
+2025-05-12 22:29:12.473 | ERROR    | data_collection.collector:parse_csv:123 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2015.csv: RetryError[<Future at 0x114b16e90 state=finished raised HTTPError>]
+2025-05-12 22:29:12.479 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2016.csv to avoid SSL issues
+2025-05-12 22:29:12.588 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2016.csv
+2025-05-12 22:29:14.590 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2016.csv to avoid SSL issues
+2025-05-12 22:29:14.707 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2016.csv
+2025-05-12 22:29:16.713 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2016.csv to avoid SSL issues
+2025-05-12 22:29:16.837 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2016.csv
+2025-05-12 22:29:16.837 | ERROR    | data_collection.collector:parse_csv:123 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2016.csv: RetryError[<Future at 0x114b396d0 state=finished raised HTTPError>]
+2025-05-12 22:29:16.838 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2017.csv to avoid SSL issues
+2025-05-12 22:29:17.032 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2017.csv
+2025-05-12 22:29:19.038 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2017.csv to avoid SSL issues
+2025-05-12 22:29:19.196 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2017.csv
+2025-05-12 22:29:21.201 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2017.csv to avoid SSL issues
+2025-05-12 22:29:21.289 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2017.csv
+2025-05-12 22:29:21.289 | ERROR    | data_collection.collector:parse_csv:123 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2017.csv: RetryError[<Future at 0x114b65a50 state=finished raised HTTPError>]
+2025-05-12 22:29:21.291 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2018.csv to avoid SSL issues
+2025-05-12 22:29:21.500 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2018.csv
+2025-05-12 22:29:23.505 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2018.csv to avoid SSL issues
+2025-05-12 22:29:23.598 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2018.csv
+2025-05-12 22:29:25.604 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2018.csv to avoid SSL issues
+2025-05-12 22:29:25.689 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2018.csv
+2025-05-12 22:29:25.690 | ERROR    | data_collection.collector:parse_csv:123 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2018.csv: RetryError[<Future at 0x114b22c60 state=finished raised HTTPError>]
+2025-05-12 22:29:25.691 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2019.csv to avoid SSL issues
+2025-05-12 22:29:25.893 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2019.csv
+2025-05-12 22:29:27.899 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2019.csv to avoid SSL issues
+2025-05-12 22:29:28.114 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2019.csv
+2025-05-12 22:29:30.120 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2019.csv to avoid SSL issues
+2025-05-12 22:29:30.215 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2019.csv
+2025-05-12 22:29:30.215 | ERROR    | data_collection.collector:parse_csv:123 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2019.csv: RetryError[<Future at 0x114afbc70 state=finished raised HTTPError>]
+2025-05-12 22:29:30.217 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2020.csv to avoid SSL issues
+2025-05-12 22:29:30.413 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2020.csv
+2025-05-12 22:29:32.416 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2020.csv to avoid SSL issues
+2025-05-12 22:29:32.625 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2020.csv
+2025-05-12 22:29:34.631 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2020.csv to avoid SSL issues
+2025-05-12 22:29:34.717 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2020.csv
+2025-05-12 22:29:34.717 | ERROR    | data_collection.collector:parse_csv:123 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2020.csv: RetryError[<Future at 0x114ac73e0 state=finished raised HTTPError>]
+2025-05-12 22:29:34.718 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2021.csv to avoid SSL issues
+2025-05-12 22:29:34.916 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2021.csv
+2025-05-12 22:29:36.921 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2021.csv to avoid SSL issues
+2025-05-12 22:29:37.007 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2021.csv
+2025-05-12 22:29:39.012 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2021.csv to avoid SSL issues
+2025-05-12 22:29:39.217 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2021.csv
+2025-05-12 22:29:39.217 | ERROR    | data_collection.collector:parse_csv:123 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2021.csv: RetryError[<Future at 0x115428190 state=finished raised HTTPError>]
+2025-05-12 22:29:39.220 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2022.csv to avoid SSL issues
+2025-05-12 22:29:39.425 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2022.csv
+2025-05-12 22:29:41.431 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2022.csv to avoid SSL issues
+2025-05-12 22:29:41.520 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2022.csv
+2025-05-12 22:29:43.525 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2022.csv to avoid SSL issues
+2025-05-12 22:29:43.728 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2022.csv
+2025-05-12 22:29:43.729 | ERROR    | data_collection.collector:parse_csv:123 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2022.csv: RetryError[<Future at 0x114bf3ad0 state=finished raised HTTPError>]
+2025-05-12 22:29:43.731 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2023.csv to avoid SSL issues
+2025-05-12 22:29:43.926 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2023.csv
+2025-05-12 22:29:45.931 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2023.csv to avoid SSL issues
+2025-05-12 22:29:46.024 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2023.csv
+2025-05-12 22:29:48.030 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2023.csv to avoid SSL issues
+2025-05-12 22:29:48.107 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2023.csv
+2025-05-12 22:29:48.107 | ERROR    | data_collection.collector:parse_csv:123 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2023.csv: RetryError[<Future at 0x115411cd0 state=finished raised HTTPError>]
+2025-05-12 22:29:48.108 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2024.csv to avoid SSL issues
+2025-05-12 22:29:48.308 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2024.csv
+2025-05-12 22:29:50.314 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2024.csv to avoid SSL issues
+2025-05-12 22:29:50.400 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2024.csv
+2025-05-12 22:29:52.406 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2024.csv to avoid SSL issues
+2025-05-12 22:29:52.508 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2024.csv
+2025-05-12 22:29:52.508 | ERROR    | data_collection.collector:parse_csv:123 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2024.csv: RetryError[<Future at 0x115410fd0 state=finished raised HTTPError>]
+2025-05-12 22:29:52.509 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2025.csv to avoid SSL issues
+2025-05-12 22:29:52.709 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2025.csv
+2025-05-12 22:29:54.715 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2025.csv to avoid SSL issues
+2025-05-12 22:29:54.808 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2025.csv
+2025-05-12 22:29:56.813 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2025.csv to avoid SSL issues
+2025-05-12 22:29:56.905 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2025.csv
+2025-05-12 22:29:56.906 | ERROR    | data_collection.collector:parse_csv:123 - Failed to parse CSV https://www.roxburynj.us/property-records/records_2025.csv: RetryError[<Future at 0x115412bd0 state=finished raised HTTPError>]
+2025-05-12 22:29:56.951 | WARNING  | reporting.reporter:line_chart:15 - Cannot create line chart: DataFrame is empty or None
+2025-05-12 22:29:56.951 | WARNING  | reporting.reporter:summary_table:28 - Cannot save summary table: DataFrame is empty or None
+2025-05-12 22:29:56.951 | WARNING  | reporting.reporter:to_excel:36 - Cannot save Excel file: DataFrame is empty or None
+2025-05-12 22:29:56.951 | WARNING  | reporting.reporter:to_pdf:46 - Cannot save PDF: DataFrame is empty or None
+2025-05-12 22:29:57.299 | INFO     | reporting.reporter:compare_new_vs_old_chart:73 - Saved new vs. old home comparison chart: reporting/output/tax_comparison_new_vs_old.png
+2025-05-12 22:29:57.301 | INFO     | reporting.reporter:compare_new_vs_old_table:78 - Saved new vs. old home comparison table: reporting/output/tax_comparison_new_vs_old.csv
+2025-05-12 22:29:58.448 | INFO     | reporting.reporter:generate_case_report:108 - Saved detailed case report: reporting/output/case_report.pdf
+2025-05-12 22:30:38.136 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2015.csv to avoid SSL issues
+2025-05-12 22:30:38.676 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2015.csv
+2025-05-12 22:30:40.682 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2015.csv to avoid SSL issues
+2025-05-12 22:30:40.800 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2015.csv
+2025-05-12 22:30:42.805 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2015.csv to avoid SSL issues
+2025-05-12 22:30:42.940 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2015.csv
+2025-05-12 22:30:42.940 | WARNING  | data_collection.collector:parse_csv:128 - File not found after retries (404): https://www.roxburynj.us/property-records/records_2015.csv
+2025-05-12 22:30:42.947 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2016.csv to avoid SSL issues
+2025-05-12 22:30:43.060 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2016.csv
+2025-05-12 22:30:45.061 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2016.csv to avoid SSL issues
+2025-05-12 22:30:45.180 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2016.csv
+2025-05-12 22:30:47.185 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2016.csv to avoid SSL issues
+2025-05-12 22:30:47.272 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2016.csv
+2025-05-12 22:30:47.272 | WARNING  | data_collection.collector:parse_csv:128 - File not found after retries (404): https://www.roxburynj.us/property-records/records_2016.csv
+2025-05-12 22:30:47.273 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2017.csv to avoid SSL issues
+2025-05-12 22:30:47.352 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2017.csv
+2025-05-12 22:30:49.356 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2017.csv to avoid SSL issues
+2025-05-12 22:30:49.440 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2017.csv
+2025-05-12 22:30:51.446 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2017.csv to avoid SSL issues
+2025-05-12 22:30:51.533 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2017.csv
+2025-05-12 22:30:51.534 | WARNING  | data_collection.collector:parse_csv:128 - File not found after retries (404): https://www.roxburynj.us/property-records/records_2017.csv
+2025-05-12 22:30:51.536 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2018.csv to avoid SSL issues
+2025-05-12 22:30:51.617 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2018.csv
+2025-05-12 22:30:53.619 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2018.csv to avoid SSL issues
+2025-05-12 22:30:53.709 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2018.csv
+2025-05-12 22:30:55.714 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2018.csv to avoid SSL issues
+2025-05-12 22:30:55.807 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2018.csv
+2025-05-12 22:30:55.808 | WARNING  | data_collection.collector:parse_csv:128 - File not found after retries (404): https://www.roxburynj.us/property-records/records_2018.csv
+2025-05-12 22:30:55.809 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2019.csv to avoid SSL issues
+2025-05-12 22:30:55.893 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2019.csv
+2025-05-12 22:30:57.898 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2019.csv to avoid SSL issues
+2025-05-12 22:30:57.990 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2019.csv
+2025-05-12 22:30:59.996 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2019.csv to avoid SSL issues
+2025-05-12 22:31:00.085 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2019.csv
+2025-05-12 22:31:00.085 | WARNING  | data_collection.collector:parse_csv:128 - File not found after retries (404): https://www.roxburynj.us/property-records/records_2019.csv
+2025-05-12 22:31:00.086 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2020.csv to avoid SSL issues
+2025-05-12 22:31:00.173 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2020.csv
+2025-05-12 22:31:02.179 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2020.csv to avoid SSL issues
+2025-05-12 22:31:02.265 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2020.csv
+2025-05-12 22:31:04.271 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2020.csv to avoid SSL issues
+2025-05-12 22:31:04.356 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2020.csv
+2025-05-12 22:31:04.356 | WARNING  | data_collection.collector:parse_csv:128 - File not found after retries (404): https://www.roxburynj.us/property-records/records_2020.csv
+2025-05-12 22:31:04.358 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2021.csv to avoid SSL issues
+2025-05-12 22:31:04.437 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2021.csv
+2025-05-12 22:31:06.442 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2021.csv to avoid SSL issues
+2025-05-12 22:31:06.530 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2021.csv
+2025-05-12 22:31:08.535 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2021.csv to avoid SSL issues
+2025-05-12 22:31:08.623 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2021.csv
+2025-05-12 22:31:08.623 | WARNING  | data_collection.collector:parse_csv:128 - File not found after retries (404): https://www.roxburynj.us/property-records/records_2021.csv
+2025-05-12 22:31:08.624 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2022.csv to avoid SSL issues
+2025-05-12 22:31:08.707 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2022.csv
+2025-05-12 22:31:10.712 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2022.csv to avoid SSL issues
+2025-05-12 22:31:10.796 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2022.csv
+2025-05-12 22:31:12.802 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2022.csv to avoid SSL issues
+2025-05-12 22:31:12.895 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2022.csv
+2025-05-12 22:31:12.896 | WARNING  | data_collection.collector:parse_csv:128 - File not found after retries (404): https://www.roxburynj.us/property-records/records_2022.csv
+2025-05-12 22:31:12.897 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2023.csv to avoid SSL issues
+2025-05-12 22:31:13.099 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2023.csv
+2025-05-12 22:31:15.103 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2023.csv to avoid SSL issues
+2025-05-12 22:31:15.188 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2023.csv
+2025-05-12 22:31:17.190 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2023.csv to avoid SSL issues
+2025-05-12 22:31:17.274 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2023.csv
+2025-05-12 22:31:17.274 | WARNING  | data_collection.collector:parse_csv:128 - File not found after retries (404): https://www.roxburynj.us/property-records/records_2023.csv
+2025-05-12 22:31:17.275 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2024.csv to avoid SSL issues
+2025-05-12 22:31:17.358 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2024.csv
+2025-05-12 22:31:19.363 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2024.csv to avoid SSL issues
+2025-05-12 22:31:19.560 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2024.csv
+2025-05-12 22:31:21.565 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2024.csv to avoid SSL issues
+2025-05-12 22:31:21.658 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2024.csv
+2025-05-12 22:31:21.658 | WARNING  | data_collection.collector:parse_csv:128 - File not found after retries (404): https://www.roxburynj.us/property-records/records_2024.csv
+2025-05-12 22:31:21.659 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2025.csv to avoid SSL issues
+2025-05-12 22:31:21.754 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2025.csv
+2025-05-12 22:31:23.759 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2025.csv to avoid SSL issues
+2025-05-12 22:31:23.850 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2025.csv
+2025-05-12 22:31:25.855 | INFO     | data_collection.collector:check_robots:25 - Skipping robots.txt check for https://www.roxburynj.us/property-records/records_2025.csv to avoid SSL issues
+2025-05-12 22:31:25.979 | WARNING  | data_collection.collector:fetch_url:46 - File not found (404): https://www.roxburynj.us/property-records/records_2025.csv
+2025-05-12 22:31:25.979 | WARNING  | data_collection.collector:parse_csv:128 - File not found after retries (404): https://www.roxburynj.us/property-records/records_2025.csv
+2025-05-12 22:31:26.018 | WARNING  | reporting.reporter:line_chart:15 - Cannot create line chart: DataFrame is empty or None
+2025-05-12 22:31:26.018 | WARNING  | reporting.reporter:summary_table:28 - Cannot save summary table: DataFrame is empty or None
+2025-05-12 22:31:26.019 | WARNING  | reporting.reporter:to_excel:36 - Cannot save Excel file: DataFrame is empty or None
+2025-05-12 22:31:26.019 | WARNING  | reporting.reporter:to_pdf:46 - Cannot save PDF: DataFrame is empty or None
+2025-05-12 22:31:26.191 | INFO     | reporting.reporter:compare_new_vs_old_chart:73 - Saved new vs. old home comparison chart: reporting/output/tax_comparison_new_vs_old.png
+2025-05-12 22:31:26.193 | INFO     | reporting.reporter:compare_new_vs_old_table:78 - Saved new vs. old home comparison table: reporting/output/tax_comparison_new_vs_old.csv
+2025-05-12 22:31:26.612 | INFO     | reporting.reporter:generate_case_report:108 - Saved detailed case report: reporting/output/case_report.pdf
+2025-05-12 22:40:27.725 | ERROR    | data_collection.collector:fetch_morris_county_roxbury_records:164 - Failed to parse table HTML: No tables found matching pattern '.+'
+2025-05-12 22:40:27.726 | DEBUG    | data_collection.collector:fetch_morris_county_roxbury_records:165 - Table HTML: <table cellpadding="0" cellspacing="0" class="Grid" summary="">
+</table>
+2025-05-12 22:40:27.726 | WARNING  | data_collection.collector:fetch_morris_county_roxbury_records:176 - No records found for Roxbury Twp in Morris County Tax Board portal.
+2025-05-12 22:40:44.220 | ERROR    | data_collection.collector:fetch_morris_county_roxbury_records:164 - Failed to parse table HTML: No tables found matching pattern '.+'
+2025-05-12 22:40:44.221 | DEBUG    | data_collection.collector:fetch_morris_county_roxbury_records:165 - Table HTML: <table cellpadding="0" cellspacing="0" class="Grid" summary="">
+</table>
+2025-05-12 22:40:44.221 | WARNING  | data_collection.collector:fetch_morris_county_roxbury_records:176 - No records found for Roxbury Twp in Morris County Tax Board portal.
+2025-05-12 22:41:00.428 | ERROR    | data_collection.collector:fetch_morris_county_roxbury_records:164 - Failed to parse table HTML: No tables found matching pattern '.+'
+2025-05-12 22:41:00.429 | DEBUG    | data_collection.collector:fetch_morris_county_roxbury_records:165 - Table HTML: <table cellpadding="0" cellspacing="0" class="Grid" summary="">
+</table>
+2025-05-12 22:41:00.429 | WARNING  | data_collection.collector:fetch_morris_county_roxbury_records:176 - No records found for Roxbury Twp in Morris County Tax Board portal.
+2025-05-12 22:41:15.534 | ERROR    | data_collection.collector:fetch_morris_county_roxbury_records:164 - Failed to parse table HTML: No tables found matching pattern '.+'
+2025-05-12 22:41:15.534 | DEBUG    | data_collection.collector:fetch_morris_county_roxbury_records:165 - Table HTML: <table cellpadding="0" cellspacing="0" class="Grid" summary="">
+</table>
+2025-05-12 22:41:15.534 | WARNING  | data_collection.collector:fetch_morris_county_roxbury_records:176 - No records found for Roxbury Twp in Morris County Tax Board portal.
+2025-05-12 22:41:29.653 | ERROR    | data_collection.collector:fetch_morris_county_roxbury_records:164 - Failed to parse table HTML: No tables found matching pattern '.+'
+2025-05-12 22:41:29.653 | DEBUG    | data_collection.collector:fetch_morris_county_roxbury_records:165 - Table HTML: <table cellpadding="0" cellspacing="0" class="Grid" summary="">
+</table>
+2025-05-12 22:41:29.653 | WARNING  | data_collection.collector:fetch_morris_county_roxbury_records:176 - No records found for Roxbury Twp in Morris County Tax Board portal.
+2025-05-12 22:41:43.197 | ERROR    | data_collection.collector:fetch_morris_county_roxbury_records:164 - Failed to parse table HTML: No tables found matching pattern '.+'
+2025-05-12 22:41:43.197 | DEBUG    | data_collection.collector:fetch_morris_county_roxbury_records:165 - Table HTML: <table cellpadding="0" cellspacing="0" class="Grid" summary="">
+</table>
+2025-05-12 22:41:43.197 | WARNING  | data_collection.collector:fetch_morris_county_roxbury_records:176 - No records found for Roxbury Twp in Morris County Tax Board portal.
+2025-05-12 22:41:56.928 | ERROR    | data_collection.collector:fetch_morris_county_roxbury_records:164 - Failed to parse table HTML: No tables found matching pattern '.+'
+2025-05-12 22:41:56.928 | DEBUG    | data_collection.collector:fetch_morris_county_roxbury_records:165 - Table HTML: <table cellpadding="0" cellspacing="0" class="Grid" summary="">
+</table>
+2025-05-12 22:41:56.928 | WARNING  | data_collection.collector:fetch_morris_county_roxbury_records:176 - No records found for Roxbury Twp in Morris County Tax Board portal.
+2025-05-12 22:42:09.922 | ERROR    | data_collection.collector:fetch_morris_county_roxbury_records:164 - Failed to parse table HTML: No tables found matching pattern '.+'
+2025-05-12 22:42:09.922 | DEBUG    | data_collection.collector:fetch_morris_county_roxbury_records:165 - Table HTML: <table cellpadding="0" cellspacing="0" class="Grid" summary="">
+</table>
+2025-05-12 22:42:09.922 | WARNING  | data_collection.collector:fetch_morris_county_roxbury_records:176 - No records found for Roxbury Twp in Morris County Tax Board portal.
+2025-05-12 22:42:22.835 | ERROR    | data_collection.collector:fetch_morris_county_roxbury_records:164 - Failed to parse table HTML: No tables found matching pattern '.+'
+2025-05-12 22:42:22.836 | DEBUG    | data_collection.collector:fetch_morris_county_roxbury_records:165 - Table HTML: <table cellpadding="0" cellspacing="0" class="Grid" summary="">
+</table>
+2025-05-12 22:42:22.836 | WARNING  | data_collection.collector:fetch_morris_county_roxbury_records:176 - No records found for Roxbury Twp in Morris County Tax Board portal.
+2025-05-12 22:42:35.529 | ERROR    | data_collection.collector:fetch_morris_county_roxbury_records:164 - Failed to parse table HTML: No tables found matching pattern '.+'
+2025-05-12 22:42:35.529 | DEBUG    | data_collection.collector:fetch_morris_county_roxbury_records:165 - Table HTML: <table cellpadding="0" cellspacing="0" class="Grid" summary="">
+</table>
+2025-05-12 22:42:35.529 | WARNING  | data_collection.collector:fetch_morris_county_roxbury_records:176 - No records found for Roxbury Twp in Morris County Tax Board portal.
+2025-05-12 22:42:48.329 | ERROR    | data_collection.collector:fetch_morris_county_roxbury_records:164 - Failed to parse table HTML: No tables found matching pattern '.+'
+2025-05-12 22:42:48.329 | DEBUG    | data_collection.collector:fetch_morris_county_roxbury_records:165 - Table HTML: <table cellpadding="0" cellspacing="0" class="Grid" summary="">
+</table>
+2025-05-12 22:42:48.329 | WARNING  | data_collection.collector:fetch_morris_county_roxbury_records:176 - No records found for Roxbury Twp in Morris County Tax Board portal.
+2025-05-12 22:42:48.330 | WARNING  | __main__:main:29 - No data collected from Morris County Tax Board portal.

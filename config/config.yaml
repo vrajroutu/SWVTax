@@ -1,0 +1,17 @@
+# Data source configuration for Roxbury Township Landing City
+# Add URLs, file paths, and access details for each data source
+
+PROPERTY_RECORDS_URL: "https://www.roxburynj.us/property-records"
+TAX_RATES_URL: "https://www.nj.gov/treasury/taxation/lpt/taxrate.shtml"
+COUNTY_RECORDS_URL: "https://morriscountyclerk.org/property-records/"
+MORRIS_COUNTY_TAX_BOARD_URL: "http://mcweb1.co.morris.nj.us/MCTaxBoard/SearchTaxRecords.aspx"
+# Add more as needed
+
+# Years to cover
+YEARS: [2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025]
+
+# Storage options
+DB_TYPE: "csv"  # or "csv", "parquet"
+DB_URI: "postgresql://user:password@localhost:5432/roxbury_property"
+DATA_DIR: "data/"
+LOG_DIR: "logs/"

@@ -1,0 +1,14 @@
+loguru
+tenacity
+requests
+beautifulsoup4
+tabula-py
+sqlalchemy
+matplotlib
+seaborn
+fpdf
+lxml
+PyYAML
+python-dotenv
+pandas
+numpy
